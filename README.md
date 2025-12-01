@@ -1,4 +1,4 @@
-\## Walmart Sales SQL Analytics (MySQL)
+## Walmart Sales SQL Analytics (MySQL)
 
 
 
