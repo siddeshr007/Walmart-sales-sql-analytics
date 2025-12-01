@@ -30,7 +30,7 @@ These insights will help guide marketing focus, inventory planning, and store-le
 
 ## 📂 Project Structure
 
-```text
+```
 walmart-sales-sql-analytics/
 ├── data/
 │   ├── raw/
@@ -44,7 +44,11 @@ walmart-sales-sql-analytics/
 ├── tableau/
 │   └── walmart_sales_sql_analysis_overview.twb   # Tableau workbook for the dashboard
 └── README.md                                # Project overview (this file)
-📊 Data
+
+```
+---
+
+## 📊 Data
 Source
 
 Public Kaggle dataset: Walmart Store Sales
